@@ -20,4 +20,5 @@ document.getElementById('random-btn').addEventListener('click', function() {
   setBoxColor(color);
 });
 
-// Branch 2
+// Branch 3
+
